@@ -1481,6 +1481,9 @@ section {
 /*--------------------------------------------------------------
 # Blog Home Posts List
 --------------------------------------------------------------*/
+.blog-index {
+  padding-bottom: 0;
+}
 .blog .posts-list article {
   height: 100%;
   border-bottom: 1px solid #d6e2ef;
