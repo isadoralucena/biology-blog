@@ -1051,7 +1051,7 @@ section {
 
 .services-cards .card-item {
   border: 1px solid rgba(27, 47, 69, 0.1);
-  background: #f7f9fc;
+  background: #fff;
   position: relative;
   border-radius: 0;
 }
@@ -1086,7 +1086,7 @@ section {
   padding: 30px;
   margin: 40px 30px;
   box-shadow: 0px 0 20px rgba(27, 47, 69, 0.1);
-  background: #fff;
+  background: #f7f9fc;
   min-height: 320px;
   display: flex;
   flex-direction: column;
