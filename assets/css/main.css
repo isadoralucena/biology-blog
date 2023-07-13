@@ -1046,12 +1046,12 @@ section {
 # Services Cards Section
 --------------------------------------------------------------*/
 .services-cards {
-  background: #f7f9fc;
+  background: #fff;
 }
 
 .services-cards .card-item {
   border: 1px solid rgba(27, 47, 69, 0.1);
-  background: #fff;
+  background: #f7f9fc;
   position: relative;
   border-radius: 0;
 }
