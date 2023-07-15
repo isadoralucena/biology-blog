@@ -87,7 +87,6 @@ A classe `navbar` agrupa as páginas que estarão no cabeçalho, na barra de nav
           <li><a href="contact.html">Contato</a></li>
         </ul>
       </nav><!-- .navbar -->
-
 ```
 A classe `d-flex` cria um container flexbox e define seus elementos filhos diretos em itens com display flex também.
 
