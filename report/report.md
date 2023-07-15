@@ -44,7 +44,7 @@ A Consistência é criar padrões dentro do sistema. O princípio é observado n
 
 A tag semântica `header` é utilizada para delimitar o cabeçalho de uma página ou páginas, apresentando normalmente a logo do sistema, links que redirecionam para outras páginas relacionadas ao site e barras de busca. É um suporte para guiar o usuário em meio ao que o sistema fornece, de acordo com subdivisões, vulgo páginas.
 
-```
+```html
 <!-- ======= Header ======= -->
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
@@ -77,7 +77,7 @@ A tag semântica `header` é utilizada para delimitar o cabeçalho de uma págin
 
 A classe `navbar` agrupa as páginas que estarão no cabeçalho, na barra de navegação
 
-```
+```html
 <nav id="navbar" class="navbar">
         <ul>
           <li><a href="index.html">Página inicial</a></li>
@@ -95,7 +95,6 @@ A classe `align-items-center` centraliza os itens que estão dentro dos flex con
 
 A classe `fixed-top` fixa um elemento no topo da tela, independente do deslizamento do usuário pelo scrollbar
 
-```
+```html
 <header id="header" class="header d-flex align-items-center fixed-top">
-
 ```
