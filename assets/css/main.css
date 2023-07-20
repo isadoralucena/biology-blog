@@ -1066,6 +1066,10 @@ section {
   padding: 30px;
 }
 
+.card-body p{
+  font-style: italic;
+}
+
 .services-cards .card-item h4 {
   font-weight: 700;
   font-size: 20px;
@@ -1128,7 +1132,6 @@ section {
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
   margin: 0 auto 15px auto;
 }
 
