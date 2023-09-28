@@ -258,6 +258,10 @@ section {
   margin-right: 6px;
 }
 
+.p-logo{
+  padding-bottom: 20px;
+}
+
 .header .logo h1 {
   font-size: 30px;
   font-weight: 700;
